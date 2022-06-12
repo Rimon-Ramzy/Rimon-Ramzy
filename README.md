@@ -1,9 +1,10 @@
-### Hi there 👋
+### Hi, I,m Rimon Ramzy 👋
 
 <!--
 **Rimon-Ramzy/Rimon-Ramzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<p>Hi I'm Rimon Ramzy, a Freelancer and work as a Front-End Developer.</p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rimon-Ramzy&&show_icons=true&title_color=ff9&icon_color=0ff&text_color=0ff&bg_color=000">
