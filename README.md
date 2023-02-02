@@ -1,6 +1,6 @@
 ### Hi there 👋, Rimon Ramzy
 #### Front End Developer
-![Front End Developer](https://github.com/Rimon-Ramzy/Rimon-Ramzy/blob/main/GitHub.jpg)
+![Front End Developer]
 
 # Rimon Ramzy
 Hi I'm Rimon from Egypt, a Freelancer and work as a Front-End Developer. I really enjoy learning languages and frameworks like Angular. And I like to work with JavaScript codes. You can check out my social media accounts ( Twitter at https://twitter.com/ | facebook at www.facebook.com | Linkedin at www.linkedin.com
